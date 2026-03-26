@@ -1,0 +1,317 @@
+[InputFile0]
+Type=filename
+Label=Input File 1
+Category=Input 1
+Index=0
+Description=The input file to process.
+Required=false
+DisableIfBlank=true
+
+[InputArgs0]
+Type=string
+Label=Input Arguments 1
+Category=Input 1
+Index=1
+Description=Additional command line arguments for the input file.
+Required=false
+DisableIfBlank=true
+
+[ReplacePadding0]
+Type=boolean
+Label=Replace Frame in Input(s) With Padding
+Category=Input 1
+Index=2
+Description=If enabled, the frame number in the file name will be replaced by frame padding before being passed to FFMpeg. This should be enabled if you are passing a sequence of images as input.
+Required=false
+DisableIfBlank=true
+
+[UseSameInputArgs]
+Type=boolean
+Label=All Inputs Use Same Args as Input 1
+Category=Input 1
+Index=3
+Description=If enabled, all additional input files will use the same arguments as the main input file.
+Required=false
+DisableIfBlank=true
+
+
+[InputFile1]
+Type=filename
+Label=Input File 2
+Category=Input 2
+Index=0
+Description=An additional input file to process.
+Required=false
+DisableIfBlank=true
+
+[InputArgs1]
+Type=string
+Label=Input Arguments 2
+Category=Input 2
+Index=1
+Description=Additional command line arguments for the input file.
+Required=false
+DisableIfBlank=true
+
+[ReplacePadding1]
+Type=boolean
+Label=Replace Frame in Input(s) With Padding
+Category=Input 2
+Index=2
+Description=If enabled, the frame number in the file name will be replaced by frame padding before being passed to FFMpeg. This should be enabled if you are passing a sequence of images as input.
+Required=false
+DisableIfBlank=true
+
+
+[InputFile2]
+Type=filename
+Label=Input File 3
+Category=Input 3
+Index=0
+Description=An additional input file to process.
+Required=false
+DisableIfBlank=true
+
+[InputArgs2]
+Type=string
+Label=Input Arguments 3
+Category=Input 3
+Index=1
+Description=Additional command line arguments for the input file.
+Required=false
+DisableIfBlank=true
+
+[ReplacePadding2]
+Type=boolean
+Label=Replace Frame in Input(s) With Padding
+Category=Input 3
+Index=2
+Description=If enabled, the frame number in the file name will be replaced by frame padding before being passed to FFMpeg. This should be enabled if you are passing a sequence of images as input.
+Required=false
+DisableIfBlank=true
+
+
+[InputFile3]
+Type=filename
+Label=Input File 4
+Category=Input 4
+Index=0
+Description=An additional input file to process.
+Required=false
+DisableIfBlank=true
+
+[InputArgs3]
+Type=string
+Label=Input Arguments 4
+Category=Input 4
+Index=1
+Description=Additional command line arguments for the input file.
+Required=false
+DisableIfBlank=true
+
+[ReplacePadding3]
+Type=boolean
+Label=Replace Frame in Input(s) With Padding
+Category=Input 4
+Index=2
+Description=If enabled, the frame number in the file name will be replaced by frame padding before being passed to FFMpeg. This should be enabled if you are passing a sequence of images as input.
+Required=false
+DisableIfBlank=true
+
+
+[InputFile4]
+Type=filename
+Label=Input File 5
+Category=Input 5
+Index=0
+Description=An additional input file to process.
+Required=false
+DisableIfBlank=true
+
+[InputArgs4]
+Type=string
+Label=Input Arguments 5
+Category=Input 5
+Index=1
+Description=Additional command line arguments for the input file.
+Required=false
+DisableIfBlank=true
+
+[ReplacePadding4]
+Type=boolean
+Label=Replace Frame in Input(s) With Padding
+Category=Input 5
+Index=2
+Description=If enabled, the frame number in the file name will be replaced by frame padding before being passed to FFMpeg. This should be enabled if you are passing a sequence of images as input.
+Required=false
+DisableIfBlank=true
+
+
+[InputFile5]
+Type=filename
+Label=Input File 6
+Category=Input 6
+Index=0
+Description=An additional input file to process.
+Required=false
+DisableIfBlank=true
+
+[InputArgs5]
+Type=string
+Label=Input Arguments 6
+Category=Input 6
+Index=1
+Description=Additional command line arguments for the input file.
+Required=false
+DisableIfBlank=true
+
+[ReplacePadding5]
+Type=boolean
+Label=Replace Frame in Input(s) With Padding
+Category=Input 6
+Index=2
+Description=If enabled, the frame number in the file name will be replaced by frame padding before being passed to FFMpeg. This should be enabled if you are passing a sequence of images as input.
+Required=false
+DisableIfBlank=true
+
+
+[InputFile6]
+Type=filename
+Label=Input File 7
+Category=Input 7
+Index=0
+Description=An additional input file to process.
+Required=false
+DisableIfBlank=true
+
+[InputArgs6]
+Type=string
+Label=Input Arguments 7
+Category=Input 7
+Index=1
+Description=Additional command line arguments for the input file.
+Required=false
+DisableIfBlank=true
+
+[ReplacePadding6]
+Type=boolean
+Label=Replace Frame in Input(s) With Padding
+Category=Input 7
+Index=2
+Description=If enabled, the frame number in the file name will be replaced by frame padding before being passed to FFMpeg. This should be enabled if you are passing a sequence of images as input.
+Required=false
+DisableIfBlank=true
+
+
+[InputFile7]
+Type=filename
+Label=Input File 8
+Category=Input 8
+Index=0
+Description=An additional input file to process.
+Required=false
+DisableIfBlank=true
+
+[InputArgs7]
+Type=string
+Label=Input Arguments 8
+Category=Input 8
+Index=1
+Description=Additional command line arguments for the input file.
+Required=false
+DisableIfBlank=true
+
+[ReplacePadding7]
+Type=boolean
+Label=Replace Frame in Input(s) With Padding
+Category=Input 8
+Index=2
+Description=If enabled, the frame number in the file name will be replaced by frame padding before being passed to FFMpeg. This should be enabled if you are passing a sequence of images as input.
+Required=false
+DisableIfBlank=true
+
+
+[InputFile8]
+Type=filename
+Label=Input File 9
+Category=Input 9
+Index=0
+Description=An additional input file to process.
+Required=false
+DisableIfBlank=true
+
+[InputArgs8]
+Type=string
+Label=Input Arguments 9
+Category=Input 9
+Index=1
+Description=Additional command line arguments for the input file.
+Required=false
+DisableIfBlank=true
+
+[ReplacePadding8]
+Type=boolean
+Label=Replace Frame in Input(s) With Padding
+Category=Input 9
+Index=2
+Description=If enabled, the frame number in the file name will be replaced by frame padding before being passed to FFMpeg. This should be enabled if you are passing a sequence of images as input.
+Required=false
+DisableIfBlank=true
+
+
+
+[OutputFile]
+Type=filenamesave
+Label=Output File
+Category=Output
+Index=0
+Description=The scene filename as it exists on the network
+Required=false
+DisableIfBlank=true
+
+[OutputArgs]
+Type=string
+Label=Output Arguments
+Category=Output
+Index=1
+Description=Additional command line arguments for the output file.
+Required=false
+DisableIfBlank=true
+
+
+[VideoPreset]
+Type=filename
+Label=Video Preset File
+Category=Preset Files
+Index=0
+Description=The video preset file.
+Required=false
+DisableIfBlank=true
+
+[AudioPreset]
+Type=filename
+Label=Audio Preset File
+Category=Preset Files
+Index=1
+Description=The audio preset file.
+Required=false
+DisableIfBlank=true
+
+[SubtitlePreset]
+Type=filename
+Label=Subtitle Preset File
+Category=Preset Files
+Index=2
+Description=The subtitle preset file.
+Required=false
+DisableIfBlank=true
+
+
+[AdditionalArgs]
+Type=string
+Label=Additional Arguments
+Category=Additional Arguments
+Index=0
+Description=Additional general command line argument.
+Required=false
+DisableIfBlank=true
